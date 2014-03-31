@@ -1,0 +1,122 @@
+	@import url(http://fonts.googleapis.com/css?family=Lobster);
+	
+	body {
+	background-color:#D8D6D2;
+	height:auto;
+	}
+	
+	.container-fluid.ext {
+	background-color:#FFF;
+	width:86%;
+	height:auto;
+	margin-top:5%;
+	margin-bottom:5%;
+	border-radius:15px;
+	padding:0;
+	}
+	
+	.container-fluid.inner {
+	background-color:#D8D6D2;
+	border-radius:15px;
+	height:auto;
+	margin-bottom:1%;
+	margin-top:1%;
+	overflow:hidden;
+	width:98%;
+	padding:0;
+	border-radius:15px;
+	 padding: 0 0 1%;
+	}
+	
+	.col-xs-12.col-sm-6.col-md-8 {
+	background-color:#FF0;
+	color:red;
+	border-radius:15px;
+	}
+	
+	.col-md-8 {
+    background-color: #D8D6D2;
+    border-radius: 15px;
+    padding-left: 2.4%;
+    padding-right: 1.1%;
+	border-radius:15px;
+	}
+	
+	.col-md-4 {
+	
+	border-radius:15px;
+	padding-left:0;
+	padding-right:0; 
+	}
+	
+	header {
+    border-radius: 15px;
+    margin-bottom: 2%;
+    padding: 1.9% 0 0;
+	}
+	
+	
+	
+	
+	header h1 {
+	text-align:center;
+	font-family:Lobster, cursive;
+	font-size:5em;
+	text-shadow:#253e45 -1px 1px 0 #253e45 -2px 2px 0 #d45848 -3px 3px 0 #d45848 -4px 4px 0;
+	background-color:#5CB85C;
+	margin:0;
+	padding:0;
+	border-radius:15px;
+	width: 100%
+	}
+	
+	#pru {
+	height:10px;
+	width:100%;
+	background-color:#D58512;
+	border-radius:15px;
+	}
+	
+	.carousel-inner {
+	    border-radius: 15px;
+	    overflow: hidden;
+	    position: relative;
+	    width: 100%;
+	}
+	.col-md-8 h1{
+		font-family:Lobster, cursive;
+	font-size:5em;
+	text-shadow:#253e45 -1px 1px 0 #253e45 -2px 2px 0 #d45848 -3px 3px 0 #d45848 -4px 4px 0;
+
+	width: 100%;
+	  border-radius: 15px;
+    margin-bottom: 2%;
+    	
+    text-align: center;
+	}
+	
+	.col-md-4 h1{	text-align:center;
+	font-family:Lobster, cursive;
+	font-size:5em;
+	text-shadow:#253e45 -1px 1px 0 #253e45 -2px 2px 0 #d45848 -3px 3px 0 #d45848 -4px 4px 0;
+	background-color: #333333;
+	width: 93%;
+	border-radius: 15px;
+    margin-bottom: 2%;
+    padding: 1.9% 0 0;
+    color:white;
+    margin: auto;
+    }
+
+
+	.ui-helper-reset {
+	    border: 0 none;
+	    font-size: 100%;
+	    line-height: 1.3;
+	    list-style: none outside none;
+	    margin: 1% auto 2% auto;
+	    outline: 0 none;
+	    padding: 0;
+	    text-decoration: none;
+	    width: 96.3%;
+	}
